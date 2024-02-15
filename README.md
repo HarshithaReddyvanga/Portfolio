@@ -11,6 +11,6 @@ With the acquisition of Virtual Forge by Onapsis and a readiness for new challen
 
 During my academic journey, I engaged in hands-on cybersecurity tasks such as IP Spoofing attacks, Metasploitable framework, Nessus Vulnerabilities Scanning, Threat Modeling, and Computer Forensics. My commitment to networking extended to working at the college front desk, fostering strong relationships with fellow students, colleagues, and supervisors.
 
-Currently, I hold a Certification in Cybersecurity from (ISC)² and Security+ 701 Certification. I am actively working towards hack the box CDSA Certification
+Currently, I hold a Certification in Cybersecurity from (ISC)² and Security+ 701 Certification. I am actively working towards CISSP Certification
 
 </h6>
